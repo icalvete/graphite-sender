@@ -29,7 +29,6 @@ class Graphite_sender
       else
         @socket.send(message, 0)
       end
-      @socket.close
     rescue Exception => e  
       puts e.message  
       puts e.backtrace.inspect
