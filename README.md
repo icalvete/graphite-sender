@@ -8,7 +8,7 @@ Send using a amqp server as intermediate.
 
 ## Example
 
-install (from http://rubygems.org/)
+Install (from http://rubygems.org/)
 
 ```bash
 $ gem install graphite-sender --no-rdoc --no-ri
