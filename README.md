@@ -10,13 +10,13 @@ Send using a amqp server as intermediate.
 
 install (from http://rubygems.org/)
 
-```
+```bash
 $ gem install graphite-sender --no-rdoc --no-ri
 ```
 
 use
 
-```
+```bash
 #!/usr/bin/ruby
 
 require 'graphite_sender'
