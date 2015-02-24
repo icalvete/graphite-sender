@@ -16,7 +16,7 @@ $ gem install graphite-sender --no-rdoc --no-ri
 
 use
 
-```bash
+```ruby
 #!/usr/bin/ruby
 
 require 'graphite_sender'
